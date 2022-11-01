@@ -6,6 +6,6 @@ In this challenge I was given starter code that displays a button marked "passwo
 
 ### URL
 
-https://bluskreen.github.io/jason-duran-portfolio/
+https://bluskreen.github.io/passwordGenerator/
 
 ![](./Assets/images/screenshot.png)
