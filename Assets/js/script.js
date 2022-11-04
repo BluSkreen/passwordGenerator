@@ -23,7 +23,7 @@ function generatePassword() {
   // Get a number between 8 and 128 for length
   do {
     length = window.prompt("Choose a length between 8 and 128");
-  } while ((length < 8) && (length > 128));
+  } while ((length < 8) || (length > 128));
 
   // ask user what character to use
   // append characters to charSet is user enters 'y'
